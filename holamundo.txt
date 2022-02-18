@@ -4,3 +4,4 @@ Estamos en el stage
 Y modifico de nuevo sin commit
 Nuevo cambio después de subir a github 
 Cambio realizado desde Github
+Y otro cambio desde local
