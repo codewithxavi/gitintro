@@ -1,2 +1,3 @@
 Hola mundo desde Git
 Estamos en el curso de GIT
+Estamos en el stage
